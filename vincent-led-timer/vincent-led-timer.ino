@@ -55,7 +55,7 @@ void start_timer(String name, unsigned long timer_beginning) {
   
   
   if ((seconds % 10) == 0) {
-    tone(buzzerPin, 261, 300);
+    tone(buzzerPin, 261, 150);
   }
 }
 
