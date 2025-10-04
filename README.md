@@ -12,7 +12,7 @@ look at the minimap while playing Starcraft.
 
 How does the Arduino know when I am playing?  Using a face recognition library, when my face is 
 recognized on the webcam, the timer starts.  When I am no longer visible, the timer then stops and resets.
-The timer restart again once I my face is recognized again.
+The timer restarts again once I my face is recognized again.
 
 ## Setup
 To run this program, there are several steps that need to be taken other just running `main.py`.
